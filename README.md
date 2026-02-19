@@ -1,2 +1,2 @@
-# CSV-File-Reader
-A CSV File Reader using Python and Tkinter 
+# CSV-File-Edior
+A CSV File Editor using Python and Tkinter 
